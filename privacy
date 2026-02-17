@@ -1,0 +1,89 @@
+Privacy Policy
+
+Last updated: February 2026
+
+1. Information We Collect
+
+Personal Information:
+- Apple ID authentication token 
+- Inventory items you manually enter
+- Chat messages you send to AI assistant
+- Technical information automatically transmitted 
+  during app operation, including IP address and 
+  in-app language setting
+
+2. How We Use Your Information
+
+The Uses of the collected information are:
+- Authenticate your identity via Apple Sign In
+- Store and manage your personal inventory
+- Process AI chat requests via OpenAI API
+- May review usage patterns and user interactions 
+   to improve app features and user experience
+
+3. Information Sharing
+
+We share data with:
+- OpenAI LLC: Chat messages processed by OpenAI API
+- Amazon Web Services: Secure data storage
+- Apple Inc: Authentication services
+
+We do not sell your personal data. If we introduce 
+advertising in future versions, we will update this 
+policy and notify users accordingly.
+
+
+4. Data Storage
+
+Your data is stored on:
+- AWS DynamoDB servers (encrypted at rest)
+- Your device (inventory images stored locally)
+
+We implement reasonable security measures to 
+protect your personal information from unauthorized 
+access, disclosure, or destruction.
+
+5. Data Retention
+
+We retain your data for as long as:
+- Your account remains active
+- Required by law
+
+6. Your Rights
+
+Right to data deletion: You may request deletion of your account and associated data by contacting us at [clbrks@outlook.com]. 
+Please allow up to 30 days for processing.
+
+You have the right to:
+- Access your personal data
+- Request account and data deletion by contacting us
+
+7. Children's Privacy
+
+This app is intended for users aged 13 and older. 
+We do not knowingly collect personal information 
+from users under 13. If we become aware that a 
+user under 13 has provided personal information, 
+we will take steps to delete such information promptly.
+
+8. Changes to This Policy
+
+We may update this policy periodically.
+Continued use of the app after changes
+constitutes acceptance of the new policy.
+
+9. Contact Us
+
+For privacy questions or data deletion requests:
+[clbrks@outlook.com]
+
+10. Third Party Services
+
+OpenAI Privacy Policy:
+https://openai.com/privacy
+
+Apple Privacy Policy:
+https://www.apple.com/privacy/
+
+AWS Privacy Policy:
+https://aws.amazon.com/privacy/
