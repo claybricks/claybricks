@@ -39,6 +39,9 @@ Your data is stored on:
 - AWS DynamoDB servers (encrypted at rest)
 - Your device (inventory images stored locally)
 
+Server logs containing IP addresses and technical 
+information are retained for security and debugging 
+purposes for as long as necessary.
 We implement reasonable security measures to 
 protect your personal information from unauthorized 
 access, disclosure, or destruction.
